@@ -1,9 +1,7 @@
 
 https://nodejs.org/ko/ node.js ¼³Ä¡ÈÄ
 	
-Node.js
-Node.js¢ç is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-nodejs.org
+
 
 npm install -g phonegap
 npm install -g cordova
